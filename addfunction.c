@@ -6,9 +6,9 @@ int main()
     scanf("%d",&a);
     printf("enter a second number");
     scanf("%d",&b);
-    int d=add(a,b);
+    int s=add(a,b);
     printf("%d",d);
-    int m=multiply(a,b);
+    int e=multiply(a,b);
     printf("%d",m);
 } 
  

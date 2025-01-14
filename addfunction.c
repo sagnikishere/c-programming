@@ -10,7 +10,7 @@ int main()
     printf("%d",d);
     int e=multiply(a,b);
     printf("%d",m);
-} 
+}  
  
 int add(a,b)
 {
